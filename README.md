@@ -50,14 +50,11 @@ The goal of this project was to **analyze the dataset** and uncover insights rel
 ## 🎯 Insights
 - **Anniversary & Raksha Bandhan** were the highest revenue-generating occasions.  
 - **Colors** category had the maximum sales among all product categories.  
-- Peak sales occurred in **March** and **August**.  
+- Peak sales occurred in **Februvary** and **August**.  
 - Average customer spent **₹3,520.98 per order**.  
-- **Top cities** like Dhanbad, Imphal, and Kavali placed the highest number of orders.  
+- **Cities** like Dhanbad, Imphal, and Kavali placed the highest number of orders.  
 
 ---
 
-## 📺 Reference
-This dashboard was created after following concepts from this YouTube video tutorial:  
-[Excel Sales Dashboard Tutorial](https://youtu.be/Wom-eVrE4RY?si=eFTUlSw6E60ulyIH)  
 
----
+
